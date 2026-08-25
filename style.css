@@ -14,15 +14,16 @@
 }
 .nav-logo{
     height: 50px;
-    width: 100px;
+    width: 150px;
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("ShopKart_logo.png");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     height: 50px;
-    width: 100px;
-
+    width: 150px;
 }
 
 .border{
@@ -197,6 +198,7 @@ span{
 .box-img:hover {
     transform: scale(1.03);
 }
+
 .box-content {
     margin-left: 1rem;
     margin-right: 1rem;
@@ -240,6 +242,10 @@ ul a{
     color: #dddddd;
 }
 
+ul a:hover{
+    text-decoration: underline;
+}
+
 .foot-panel3{
     background-color: #222f3d;
     color: white;
@@ -251,11 +257,14 @@ ul a{
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("ShopKart_logo.png");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     height: 50px;
-    width: 90px;
+    width: 150px;
 }
+
 
 .foot-panel4{
     background-color: #0f1111;
