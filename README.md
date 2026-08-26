@@ -95,8 +95,8 @@ Technology
 Purpose HTML5
 
 Website structure
-CSS3| Styling and layout
-Flexbox| Responsive positioning
+CSS3 | Styling and layout 
+Flexbox | Responsive positioning
 
 Git| Version control GitHub
 Repository and project hosting
@@ -143,6 +143,7 @@ Frontend Development Enthusiast
 I enjoy building web projects, solving development challenges, and continuously improving my frontend development skills.
 
 GitHub: "hardiksingh93"
+
 
 
 
