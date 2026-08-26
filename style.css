@@ -19,7 +19,7 @@
 
 .logo{
     background-image: url("ShopKart_logo.png");
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     height: 50px;
@@ -258,7 +258,7 @@ ul a:hover{
 
 .logo{
     background-image: url("ShopKart_logo.png");
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     height: 50px;
