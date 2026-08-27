@@ -52,7 +52,6 @@ ShopKart-E-commerce/
 ├── script.js
 
 ├── images/
-  └── ...
 
 └── README.md
 
