@@ -43,12 +43,17 @@ The interface includes product browsing, search, categories, promotional section
 📂 Project Structure
 
 ShopKart-E-commerce/
-│
+
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── images/
-│   └── ...
+  └── ...
+
 └── README.md
 
 🚀 Getting Started
